@@ -1,2 +1,2 @@
 # praca-inz
-Repo z programami użytymi w pracy inżynierskiej
+Repozytorium z programami napisanymi do pracy inżynierskiej pt.: ,,Analiza oddziaływań pomiędzy członkami grup internetowych metodami sieci złożonych''.
